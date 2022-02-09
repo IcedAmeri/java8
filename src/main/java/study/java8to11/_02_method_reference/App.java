@@ -1,7 +1,6 @@
-package study.java8to11.method_reference;
+package study.java8to11._02_method_reference;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.function.Function;
 import java.util.function.Supplier;
 import java.util.function.UnaryOperator;

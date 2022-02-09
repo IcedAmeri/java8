@@ -1,4 +1,4 @@
-package study.java8to11.method_reference;
+package study.java8to11._02_method_reference;
 
 public class Greeting {
     private String name;
