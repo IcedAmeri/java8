@@ -52,7 +52,7 @@ public class App {
         List<OnlineClass> javaClasses = new ArrayList<>();
         javaClasses.add(new OnlineClass(6, "The Java, Test", true));
         javaClasses.add(new OnlineClass(6, "The Java, Code manipulation", true));
-        javaClasses.add(new OnlineClass(6, "The Java, 8 to 11", false);
+        javaClasses.add(new OnlineClass(6, "The Java, 8 to 11", false));
 
         List<List<OnlineClass>> keesunEvents = new ArrayList<>();
         keesunEvents.add(springClass);
