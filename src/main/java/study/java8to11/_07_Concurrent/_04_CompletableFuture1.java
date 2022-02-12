@@ -6,7 +6,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class _04_CompletableFuture {
+public class _04_CompletableFuture1 {
     public static void main(String[] args) throws ExecutionException, InterruptedException {
         // CompletedFuture
         CompletableFuture<String> future = CompletableFuture.completedFuture("keesun");
