@@ -1,6 +1,6 @@
 package study.java8to11._07_Concurrent;
 
-public class App {
+public class _01_ConcurrentApp {
     public static void main(String[] args) throws InterruptedException {
         // 방식 1 - Thread 상속
         /*
